@@ -23,7 +23,7 @@ const allUsers = [
         friends: ["Jordan Sampson", "Eddie Strong"]
     },
     {
-        name: " Dotson",
+        name: "Blackburn Dotson",
         friends: ["Jacklyn Lucas", "Linda Chapman"]
     },
     {
